@@ -1,2 +1,0 @@
-# to update ipython (allows for local browsing)
-pip install ipython --upgrade
